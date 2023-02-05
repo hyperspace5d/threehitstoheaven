@@ -1,0 +1,4 @@
+Host www.github.com
+  AddKeysToAgent yes
+  IdentityFile ~/Users/mca/.ssh/id_ed25519
+
